@@ -1,7 +1,20 @@
 # Análise do IBOVESPA - FIAP
 
+### Grupo 66 - Autores:
+
+- Flademir de Albuquerque
+
+- Lucas Ordonio
+
+- Francisco das Chagas Peres Júnior
+
+- Tadeu Tupinambá
+
 ## Descrição
 Este projeto consiste em uma análise abrangente do índice IBOVESPA, desenvolvida como parte de um curso na FIAP. Utilizando Python, o projeto aborda a coleta, processamento e análise de dados do mercado financeiro brasileiro, fornecendo insights valiosos e visualizações interativas.
+
+## Link da nosso relatório no Medium:
+https://medium.com/@flade.albu/modelo-preditivo-com-base-na-ibovespa-bolsa-de-valores-807e6cfed10c
 
 ## Uso
 Para utilizar este projeto e reproduzir as análises, siga os passos abaixo:
